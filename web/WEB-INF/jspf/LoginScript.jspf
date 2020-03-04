@@ -1,0 +1,7 @@
+<script>
+    $(".selection-2").select2({
+        minimumResultsForSearch: 20,
+        dropdownParent: $('#dropDownSelect1')
+    });
+</script>
+<script src="Resources/js/main.js"></script>

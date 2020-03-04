@@ -1,0 +1,46 @@
+<%
+    String procesos = "";
+    String nombre = "";
+
+    if (null != request.getSession().getAttribute("procesos")) {
+        procesos = request.getSession().getAttribute("procesos").toString();
+        nombre = request.getSession().getAttribute("usuario").toString();
+    }
+
+%>
+
+<div class="placeholder">
+    <div class="parallax-window" data-parallax="scroll" data-image-src="Resources/img/portada.jpg">
+        
+        <div class="tm-header">
+            <div class="row tm-header-inner">
+                <div class="col-md-6 col-12">
+                    
+                    <img src="Resources/img/simple-house-logo.png" alt="Logo" class="tm-site-logo" />
+                    <div class="tm-site-text-box">
+                        <h1 class="tm-site-title">CHANWIS</h1>
+                        <h6 class="tm-site-description">Franquicia de Hamburguesas y Sandwitchs</h6>	
+                    </div>
+                </div>
+                <nav class="col-md-6 col-12 tm-nav">
+                    <ul class="tm-nav-ul">
+                        <li class="tm-nav-li"><a href="menu.jsp" class="tm-nav-link active">Home</a></li>
+                        <li class="tm-nav-li"><a href="#" class="tm-nav-link">Delivery</a></li>
+                        <% if (procesos.equals("logeado")) {%>
+                        <li class="tm-nav-li"><a href="#" class="tm-nav-link" ><%=nombre%></a></li>
+                        <li class="tm-nav-li"><a href="#"  id="btn_salir" class="tm-nav-link" >Salir</a></li>
+                            <%} else {%>          
+                        <li class="tm-nav-li"><a href="Login.jsp" class="tm-nav-link">Login</a></li>
+                            <%}%>
+
+                    </ul>
+                </nav>	
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<form action="usercontroller" id="form-salir" method="POST">
+    <input type="hidden" name="txtProceso" value="logout">       
+</form>

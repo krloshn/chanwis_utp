@@ -1,0 +1,163 @@
+
+   <!-- Footer -->
+<footer class="page-footer font-small stylish-color-dark pt-4">
+
+  <!-- Footer Links -->
+  <div class="container-fluid text-center text-md-left">
+
+    <!-- Grid row -->
+    <div class="row">
+
+      <!-- Grid column -->
+     <hr class="clearfix w-100 d-md-none">
+
+      <!-- Grid column -->
+      <div class="col-md-3 mx-auto">
+
+        <!-- Links -->
+        <h6 class="font-weight-bold text-uppercase mt-3 mb-4">VEN CON LA FAMILIA</h6>
+
+        <ul class="list-unstyled">
+          <p>Nuestra amplia variedad de sanguchones y bebidas les
+            permitirá disfrutar sus deliciosas combinaciones, ofreciéndole 
+            a su paladar nuevas alternativas con sabores totalmente caseros.</p>
+           
+        </ul>
+      </div>
+      <!-- Grid column -->
+
+      <hr class="clearfix w-100 d-md-none">
+
+      <!-- Grid column -->
+      <div class="col-md-3 mx-auto">
+
+        <!-- Links -->
+        <h6 class="font-weight-bold text-uppercase mt-3 mb-4">EMPRESA</h6>
+
+        <ul class="list-unstyled">
+          <li>
+            <a href="#!">Nosotros</a>
+          </li>
+          <li>
+            <a href="#!">Locales</a>
+          </li>
+          <li>
+            <a href="#!">Cumpleaños</a>
+          </li>
+          <li>
+            <a href="#!">Atención al Cliente</a>
+          </li>
+          <li>
+            <a href="#!">Preguntas Frecuentes</a>
+          </li>
+        </ul>
+      </div>
+      <!-- Grid column -->
+
+      <hr class="clearfix w-100 d-md-none">
+
+      <!-- Grid column -->
+      <div class="col-md-3 mx-auto">
+
+        <!-- Links -->
+        <h6 class="font-weight-bold text-uppercase mt-3 mb-4">TERMINOS</h6>
+
+        <ul class="list-unstyled">
+          <li>
+            <a href="#!">Términos y  condiciones de Promociones</a>
+          </li>
+          <li>
+            <a href="#!">Empresas y socios estratégicos</a>
+          </li>
+          <li>
+            <a href="#!">Encargados del tratamiento</a>
+          </li>
+        </div>
+        </ul>
+      <!-- Grid column -->
+
+  
+    <!-- Grid row -->
+    
+    <div class="col-md-3 footer-payments">
+    <div class="">
+   <h6 class="font-weight-bold text-uppercase mt-3 mb-4">FORMAS DE PAGO</h6>
+    <div class="row payment-method">
+        
+        <div class="col-md-3 col-xs-4"> 
+            <a href=></a>
+            <img src="../chanwis/Resources/img/footer/visa.svg">
+        </div>
+        
+        <div class="col-md-4 col-xs-4"> 
+            <img src="../chanwis/Resources/img/footer/mastercard.svg">
+        </div>
+        
+        <div class="col-md-4 col-xs-4"> 
+            <img src="../chanwis/Resources/img/footer/american.svg">
+        </div>
+
+        <div class="col-md-12 col-xs-12 safety"> 
+            <img src="../chanwis/Resources/img/footer/safety.svg">
+                 
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-12">
+            <div class="button-comprobante"> 
+                <a href="http://asp401r.paperless.com.pe/BoletaBEMBOS/" target="_blank"> 
+                    <span>
+                        <img src="../chanwis/Resources/img/footer/comprobante.svg">
+                       
+                        COMPROBANTES 
+                    </span> 
+                </a>
+            </div>
+        </div>
+     </div>
+    </div>
+   </div>
+  </div>
+</div>
+  <!-- Footer Links -->
+  
+  <!-- Social buttons -->
+  <ul class="list-inline text-center">
+    <li class="list-inline-item">
+      <a class="btn-floating btn-fb mx-1">
+        <i class="fab fa-facebook-f"> </i>
+      </a>
+    </li>
+    <li class="list-inline-item">
+      <a class="btn-floating btn-tw mx-1">
+        <i class="fab fa-twitter"> </i>
+      </a>
+    </li>
+    <li class="list-inline-item">
+      <a class="btn-floating btn-gplus mx-1">
+        <i class="fab fa-google-plus-g"> </i>
+      </a>
+    </li>
+    <li class="list-inline-item">
+      <a class="btn-floating btn-li mx-1">
+        <i class="fab fa-linkedin-in"> </i>
+      </a>
+    </li>
+    <li class="list-inline-item">
+      <a class="btn-floating btn-dribbble mx-1">
+        <i class="fab fa-dribbble"> </i>
+      </a>
+    </li>
+  </ul>
+  <!-- Social buttons -->
+
+  <!-- Copyright -->
+  <div class="footer-copyright text-center py-3">© 2020 Copyright:
+    <a href="https://mdbootstrap.com/education/bootstrap/"> LMR&CHH</a>
+  </div>
+  <!-- Copyright -->
+
+</footer>
+<!-- Footer -->
+

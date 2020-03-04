@@ -1,0 +1,249 @@
+<header class="row tm-welcome-section">
+    <h2 class="col-12 text-center tm-section-title">Bienvenidos a CHANWIS Menu</h2>
+    <p class="col-12 text-center">La mejor hamburguesa a la parrilla por su sabor único y sus creativas combinaciones a partir de insumos de la más alta calidad ofrecida en nuestros atractivos locales. Nuestro espíritu innovador y expresivo se manifiesta en nuestros productos, pero también en nuestros locales, la música, nuestro ambiente y servicios.</p>
+</header>
+
+<div class="tm-paging-links">
+    <nav>
+        <ul id="ul_categorialist">
+            <li class="tm-paging-item"><a href="#" class="tm-paging-link active">Pizza</a></li>
+            <li class="tm-paging-item"><a href="#" class="tm-paging-link">Salad</a></li>
+            <li class="tm-paging-item"><a href="#" class="tm-paging-link">Noodle</a></li>
+        </ul>
+    </nav>
+</div>
+
+<!-- Gallery -->
+<div class="row tm-gallery">
+    <!-- gallery page 1 -->
+    <div id="tm-gallery-page-pizza" class="tm-gallery-page">
+        <article class="col-lg-3 col-md-4 col-sm-6 col-12 tm-gallery-item">
+            <figure>
+                <img src="Resources/images/hamburguesas/clasica.jpg" alt="Image" class="img-fluid tm-gallery-img" />
+                <figcaption>
+                    <h4 class="tm-gallery-title">Hamburguesa Clásica</h4>
+                    <p class="tm-gallery-description">Hamburguesa a la parrilla, lechuga, tomate y mayonesa.</p>
+                    <p class="tm-gallery-price">S/. 8,99</p>
+                </figcaption>
+            </figure>
+        </article>
+
+        <article class="col-lg-3 col-md-4 col-sm-6 col-12 tm-gallery-item">
+            <figure>
+                <img src="Resources/images/hamburguesas/cheese.jpg" alt="Image" class="img-fluid tm-gallery-img" />
+                <figcaption>
+                    <h4 class="tm-gallery-title">Hamburguesa Cheese</h4>
+                    <p class="tm-gallery-description">Hamburguesa a la parrilla, lechuga, tomate, mayonesa y queso.</p>
+                    <p class="tm-gallery-price">S/. 9,99</p>
+                </figcaption>
+            </figure>
+        </article>
+
+        <article class="col-lg-3 col-md-4 col-sm-6 col-12 tm-gallery-item">
+            <figure>
+                <img src="Resources/images/hamburguesas/doble queso.jpg" alt="Image" class="img-fluid tm-gallery-img" />
+                <figcaption>
+                    <h4 class="tm-gallery-title">Hamburguesa Doble Queso</h4>
+                    <p class="tm-gallery-description">Hamburguesa a la parrilla, doble queso Edam, tomate en rodajas, lechuga y mayonesa.</p>
+                    <p class="tm-gallery-price">S/. 12,99</p>
+                </figcaption>
+            </figure>
+        </article>
+
+        <article class="col-lg-3 col-md-4 col-sm-6 col-12 tm-gallery-item">
+            <figure>
+                <img src="Resources/images/hamburguesas/la churrita.jpg" alt="Image" class="img-fluid tm-gallery-img" />
+                <figcaption>
+                    <h4 class="tm-gallery-title">Hamburguesa La Churrita</h4>
+                    <p class="tm-gallery-description">Hamburguesa a la parrilla, tocino, papas al hilo y Mayonesa de Chimichurri.</p>
+                    <p class="tm-gallery-price">S/. 12,99</p>
+                </figcaption>
+            </figure>
+        </article>
+        <article class="col-lg-3 col-md-4 col-sm-6 col-12 tm-gallery-item">
+            <figure>
+                <img src="Resources/images/hamburguesas/queso tocino.jpg" alt="Image" class="img-fluid tm-gallery-img" />
+                <figcaption>
+                    <h4 class="tm-gallery-title">Hamburguesa Queso Tocino</h4>
+                    <p class="tm-gallery-description">Hamburguesa a la parrilla, doble tocino, queso Edam, tomate en rodajas, lechuga y mayonesa.</p>
+                    <p class="tm-gallery-price">S/. 15,99</p>
+                </figcaption>
+            </figure>
+        </article>
+        <article class="col-lg-3 col-md-4 col-sm-6 col-12 tm-gallery-item">
+            <figure>
+                <img src="Resources/images/hamburguesas/royal.jpg" alt="Image" class="img-fluid tm-gallery-img" />
+                <figcaption>
+                    <h4 class="tm-gallery-title">Hamburguesa Royal</h4>
+                    <p class="tm-gallery-description">Bembos a la parrilla, huevo, queso Edam, tomate, lechuga y mayonesa.</p>
+                    <p class="tm-gallery-price">S/. 16,99</p>
+                </figcaption>
+            </figure>
+        </article>
+        <article class="col-lg-3 col-md-4 col-sm-6 col-12 tm-gallery-item">
+            <figure>
+                <img src="Resources/images/hamburguesas/a lo pobre.jpg" alt="Image" class="img-fluid tm-gallery-img" />
+                <figcaption>
+                    <h4 class="tm-gallery-title">Hamburguesa A lo pobre</h4>
+                    <p class="tm-gallery-description">Hamburguesa a la parrilla, huevo frito, plátano frito, cebolla blanca, tomate y mayonesa.</p>
+                    <p class="tm-gallery-price">S/. 16,99</p>
+                </figcaption>
+            </figure>
+        </article>
+        <article class="col-lg-3 col-md-4 col-sm-6 col-12 tm-gallery-item">
+            <figure>
+                <img src="Resources/images/hamburguesas/carretillera.jpg" alt="Image" class="img-fluid tm-gallery-img" />
+                <figcaption>
+                    <h4 class="tm-gallery-title">Hamburguesa Bembos Carretillera</h4>
+                    <p class="tm-gallery-description">Deliciosa hamburguesa hecha a la parrilla con pollo deshilachado, salsa tártara y papitas al hilo.</p>
+                    <p class="tm-gallery-price">S/. 17,99</p>
+                </figcaption>
+            </figure>
+        </article>
+    </div> <!-- gallery page 1 -->
+
+    <!-- gallery page 2 -->
+    <div id="tm-gallery-page-salad" class="tm-gallery-page hidden">
+        <article class="col-lg-3 col-md-4 col-sm-6 col-12 tm-gallery-item">
+            <figure>
+                <img src="Resources/img/gallery/04.jpg" alt="Image" class="img-fluid tm-gallery-img" />
+                <figcaption>
+                    <h4 class="tm-gallery-title">Salad Menu One</h4>
+                    <p class="tm-gallery-description">Proin eu velit egestas, viverra sapien eget, consequat nunc. Vestibulum tristique</p>
+                    <p class="tm-gallery-price">$25</p>
+                </figcaption>
+            </figure>
+        </article>
+        <article class="col-lg-3 col-md-4 col-sm-6 col-12 tm-gallery-item">
+            <figure>
+                <img src="Resources/img/gallery/03.jpg" alt="Image" class="img-fluid tm-gallery-img" />
+                <figcaption>
+                    <h4 class="tm-gallery-title">Second Title Salad</h4>
+                    <p class="tm-gallery-description">Proin eu velit egestas, viverra sapien eget, consequat nunc. Vestibulum tristique</p>
+                    <p class="tm-gallery-price">$30</p>
+                </figcaption>
+            </figure>
+        </article>
+        <article class="col-lg-3 col-md-4 col-sm-6 col-12 tm-gallery-item">
+            <figure>
+                <img src="Resources/img/gallery/05.jpg" alt="Image" class="img-fluid tm-gallery-img" />
+                <figcaption>
+                    <h4 class="tm-gallery-title">Third Salad Item</h4>
+                    <p class="tm-gallery-description">Proin eu velit egestas, viverra sapien eget, consequat nunc. Vestibulum tristique</p>
+                    <p class="tm-gallery-price">$45</p>
+                </figcaption>
+            </figure>
+        </article>
+        <article class="col-lg-3 col-md-4 col-sm-6 col-12 tm-gallery-item">
+            <figure>
+                <img src="Resources/img/gallery/01.jpg" alt="Image" class="img-fluid tm-gallery-img" />
+                <figcaption>
+                    <h4 class="tm-gallery-title">Superior Salad</h4>
+                    <p class="tm-gallery-description">Proin eu velit egestas, viverra sapien eget, consequat nunc. Vestibulum tristique</p>
+                    <p class="tm-gallery-price">$50</p>
+                </figcaption>
+            </figure>
+        </article>
+        <article class="col-lg-3 col-md-4 col-sm-6 col-12 tm-gallery-item">
+            <figure>
+                <img src="Resources/img/gallery/08.jpg" alt="Image" class="img-fluid tm-gallery-img" />
+                <figcaption>
+                    <h4 class="tm-gallery-title">Sed ultricies dui</h4>
+                    <p class="tm-gallery-description">Proin eu velit egestas, viverra sapien eget, consequat nunc. Vestibulum tristique</p>
+                    <p class="tm-gallery-price">$55 / $60</p>
+                </figcaption>
+            </figure>
+        </article>
+        <article class="col-lg-3 col-md-4 col-sm-6 col-12 tm-gallery-item">
+            <figure>
+                <img src="Resources/img/gallery/07.jpg" alt="Image" class="img-fluid tm-gallery-img" />
+                <figcaption>
+                    <h4 class="tm-gallery-title">Maecenas eget justo</h4>
+                    <p class="tm-gallery-description">Proin eu velit egestas, viverra sapien eget, consequat nunc. Vestibulum tristique</p>
+                    <p class="tm-gallery-price">$75</p>
+                </figcaption>
+            </figure>
+        </article>
+    </div> <!-- gallery page 2 -->
+
+    <!-- gallery page 3 -->
+    <div id="tm-gallery-page-noodle" class="tm-gallery-page hidden">
+        <article class="col-lg-3 col-md-4 col-sm-6 col-12 tm-gallery-item">
+            <figure>
+                <img src="Resources/img/gallery/08.jpg" alt="Image" class="img-fluid tm-gallery-img" />
+                <figcaption>
+                    <h4 class="tm-gallery-title">Noodle One</h4>
+                    <p class="tm-gallery-description">Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+                    <p class="tm-gallery-price">$12.50</p>
+                </figcaption>
+            </figure>
+        </article>
+        <article class="col-lg-3 col-md-4 col-sm-6 col-12 tm-gallery-item">
+            <figure>
+                <img src="Resources/img/gallery/07.jpg" alt="Image" class="img-fluid tm-gallery-img" />
+                <figcaption>
+                    <h4 class="tm-gallery-title">Noodle Second</h4>
+                    <p class="tm-gallery-description">Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+                    <p class="tm-gallery-price">$15.50</p>
+                </figcaption>
+            </figure>
+        </article>
+        <article class="col-lg-3 col-md-4 col-sm-6 col-12 tm-gallery-item">
+            <figure>
+                <img src="Resources/img/gallery/06.jpg" alt="Image" class="img-fluid tm-gallery-img" />
+                <figcaption>
+                    <h4 class="tm-gallery-title">Third Soft Noodle</h4>
+                    <p class="tm-gallery-description">Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+                    <p class="tm-gallery-price">$20.50</p>
+                </figcaption>
+            </figure>
+        </article>
+        <article class="col-lg-3 col-md-4 col-sm-6 col-12 tm-gallery-item">
+            <figure>
+                <img src="Resources/img/gallery/05.jpg" alt="Image" class="img-fluid tm-gallery-img" />
+                <figcaption>
+                    <h4 class="tm-gallery-title">Aliquam sagittis</h4>
+                    <p class="tm-gallery-description">Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+                    <p class="tm-gallery-price">$30.25</p>
+                </figcaption>
+            </figure>
+        </article>
+        <article class="col-lg-3 col-md-4 col-sm-6 col-12 tm-gallery-item">
+            <figure>
+                <img src="Resources/img/gallery/04.jpg" alt="Image" class="img-fluid tm-gallery-img" />
+                <figcaption>
+                    <h4 class="tm-gallery-title">Maecenas eget justo</h4>
+                    <p class="tm-gallery-description">Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+                    <p class="tm-gallery-price">$35.50</p>
+                </figcaption>
+            </figure>
+        </article>
+        <article class="col-lg-3 col-md-4 col-sm-6 col-12 tm-gallery-item">
+            <figure>
+                <img src="Resources/img/gallery/03.jpg" alt="Image" class="img-fluid tm-gallery-img" />
+                <figcaption>
+                    <h4 class="tm-gallery-title">Quisque et felis eros</h4>
+                    <p class="tm-gallery-description">Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+                    <p class="tm-gallery-price">$40.50</p>
+                </figcaption>
+            </figure>
+        </article>
+
+    </div> <!-- gallery page 3 -->
+</div>
+<div class="tm-section tm-container-inner">
+    <div class="row">
+        <div class="col-md-6">
+            <figure class="tm-description-figure">
+                <img src="Resources/images/hamburguesas/familiar.jpg" alt="Image" class="img-fluid" />
+            </figure>
+        </div>
+        <div class="col-md-6">
+            <div class="tm-description-box"> 
+                <h4 class="tm-gallery-title">VEN CON LA FAMILIA</h4>
+                <p class="tm-mb-45">Nuestra amplia variedad de sanguchones y bebidas les permitirá disfrutar sus deliciosas combinaciones, ofreciéndole a su paladar nuevas alternativas con sabores totalmente caseros.</p>
+                <a href="about.html" class="tm-btn tm-btn-default tm-right">Read More</a>
+            </div>
+        </div>
+    </div>
+</div>

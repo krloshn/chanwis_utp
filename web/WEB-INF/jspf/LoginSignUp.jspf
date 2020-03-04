@@ -1,0 +1,59 @@
+<div class="limiter">
+    <div class="container-login100">
+        <div class="wrap-login100">
+            <form class="login100-form validate-form" action="usercontroller" method="POST">
+                <span class="login100-form-title p-b-34">
+                    Registrarse
+                </span>
+                
+                <input type="hidden" name="txtProceso" value="registro">
+                
+                <div class="wrap-input100 rs1-wrap-input100 validate-input m-b-20" data-validate="Type user name">
+                    <input id="first-name" class="input100" type="text" name="txtNombre" placeholder="Nombre">
+                    <span class="focus-input100"></span>
+                </div>
+                <div class="wrap-input100 rs1-wrap-input100 validate-input m-b-20" data-validate="Type user name">
+                    <input id="last-name" class="input100" type="text" name="txtApellido" placeholder="Apellido">
+                    <span class="focus-input100"></span>
+                </div>
+                <div class="wrap-input100 rs1-wrap-input100 validate-input m-b-20" data-validate="Type user name">
+                    <input id="email" class="input100" type="text" name="txtcorreo" placeholder="E-mail">
+                    <span class="focus-input100"></span>
+                </div>
+                <div class="wrap-input100 rs2-wrap-input100 validate-input m-b-20" data-validate="Type number">
+                    <input id="phone" class="input100" type="text" name="txtTelefono" placeholder="Telefono">
+                    <span class="focus-input100"></span>
+                </div>
+                <div class="wrap-input100 rs2-wrap-input100 validate-input m-b-20" data-validate="Type password">
+                    <input id="pass" class="input100" type="password" name="txtClave" placeholder="Password">
+                    <span class="focus-input100"></span>
+                </div>
+                <div class="wrap-input100 rs2-wrap-input100 validate-input m-b-20" data-validate="Type password">
+                    <input id="pass2" class="input100" type="password" name="txtClave2" placeholder="Repetir Password">
+                    <span class="focus-input100"></span>
+                </div>
+
+                <div class="container-login100-form-btn">
+                    <button class="login100-form-btn">
+                        SIGN UP
+                    </button>
+                </div>
+
+                <div class="w-full text-center">
+                    <a href="Login.jsp" class="txt3">
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        Login
+                    </a>
+                </div>
+            </form>
+
+            <div class="login100-more" style="background-image: url('Resources/images/bg-01.jpg');"></div>
+        </div>
+    </div>
+</div>
+
+<div id="dropDownSelect1"></div>
